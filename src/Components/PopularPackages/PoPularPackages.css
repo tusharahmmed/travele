@@ -1,0 +1,16 @@
+.package-container{
+    color: #101F46;
+}
+.package-title{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+}
+.packages-subtitle{
+    width: 100px;
+    height: 3px;
+    display: inline-block;
+    
+}
+.raleway-font{
+    font-family: "Raleway", sans-serif;
+}

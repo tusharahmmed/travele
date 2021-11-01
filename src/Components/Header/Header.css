@@ -1,0 +1,13 @@
+/*
+    Header
+*/
+.header{
+    /* background-image: url('https://i.ibb.co/PrNhRbB/slider-banner-1.jpg'); */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(https://i.ibb.co/PrNhRbB/slider-banner-1.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    
+}
+
+

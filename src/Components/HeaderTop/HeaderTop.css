@@ -1,0 +1,19 @@
+/*
+    Header top
+*/
+.header-top{
+    border-top: 1px solid rgba(255, 255, 255, 0.185);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.418);
+}
+.header-top-left span{
+    margin-right: 20px;
+}
+.header-top-right span{
+    margin-left: 20px;
+    /* color: white; */
+}
+.search{
+    border-left: 1px solid rgba(255, 255, 255, 0.37);
+    border-right: 1px solid rgba(255, 255, 255, 0.37);
+    
+}
